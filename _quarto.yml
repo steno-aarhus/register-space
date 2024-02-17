@@ -1,0 +1,35 @@
+project:
+  type: sdca-theme
+
+website:
+  title: "SDCA Register Space"
+  site-url: "https://steno-aarhus.github.io/register-space/"
+  repo-url: "https://github.com/steno-aarhus/register-space"
+  navbar:
+    pinned: true
+    left:
+      - icon: house-door
+        href: "index.qmd"
+    tools:
+      - icon: github
+        href: "https://github.com/steno-aarhus/"
+      - icon: twitter
+        href: "https://twitter.com/StenoAarhusRes"
+      - icon: three-dots-vertical
+        menu:
+          - text: Official site
+            href: "https://www.stenoaarhus.dk/research"
+          - text: Common Docs
+            href: "https://steno-aarhus.github.io/research"
+          - text: Epi Stats
+            href: "https://steno-aarhus.github.io/epi-stats"
+          - text: Register Space
+            href: "https://steno-aarhus.github.io/register-space"
+
+
+format: sdca-theme-html
+
+editor_options:
+  markdown:
+    wrap: 72
+    canonical: true
