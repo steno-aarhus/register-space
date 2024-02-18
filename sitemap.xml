@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://steno-aarhus.github.io/register-space/LICENSE.html</loc>
-    <lastmod>2024-02-18T01:52:48.529Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/register-space/sessions/YYYY-MM-DD/index.html</loc>
-    <lastmod>2024-02-18T01:52:48.537Z</lastmod>
+    <lastmod>2024-02-18T02:41:20.328Z</lastmod>
   </url>
   <url>
     <loc>https://steno-aarhus.github.io/register-space/index.html</loc>
-    <lastmod>2024-02-18T01:52:48.537Z</lastmod>
+    <lastmod>2024-02-18T02:41:20.336Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/register-space/sessions/YYYY-MM-DD/index.html</loc>
+    <lastmod>2024-02-18T02:41:20.336Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/register-space/directory.html</loc>
+    <lastmod>2024-02-18T02:41:20.336Z</lastmod>
   </url>
 </urlset>
