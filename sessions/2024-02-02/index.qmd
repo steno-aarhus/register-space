@@ -4,8 +4,6 @@ description: "This is the first meeting where the key points regarding our gathe
 date: "2024-02-02"
 ---
 
-Content
----
 
 Files from session:
 
