@@ -1,0 +1,24 @@
+---
+title: "Register based diabetes definition used at SDCA"
+date: "2024-02-29"
+references:
+- type: article-journal
+  id: IsaksenSandbækBjerg2023
+  author:
+  - family: Isaksen
+    given: A. A. 
+  - family: Sandbæk
+    given: A.
+  - family: Bjerg
+    given: L.
+  issued: 2023
+  title: 'Validation of Register-Based Diabetes Classifiers in Danish Data'
+  DOI: 10.2147/CLEP.S407019
+---
+
+Files from session:
+
+- [Slides](slides.pdf)
+
+The Article discussed were [@IsaksenSandbækBjerg2023] and the following dissertation: 
+https://aastedet.github.io/dissertation/5-discussion-methods.html#design-of-diabetes-classifiers
