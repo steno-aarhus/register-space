@@ -3,6 +3,7 @@
     "listing": "/index.html",
     "items": [
       "/sessions/YYYY-MM-DD/index.html",
+      "/sessions/2024-02-29/index.html",
       "/sessions/2024-02-02/index.html"
     ]
   }
