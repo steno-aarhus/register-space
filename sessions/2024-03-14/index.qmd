@@ -1,10 +1,10 @@
 ---
 title: "Study groups - Register Space"
 date: "2024-03-14"
-description: "As several students are facing challenges in initiating data management tasks, and various statistical programs are being utilized, we have decided to establish a study group community. We will discuss the framework for this during an upcoming Register Space meeting.
-For now, we have set up a Google Docs document where we encourage all those working with data within "Register Space" to sign up. The document is private and requires my approval for access. I aim to approve requests within approximately 24 hours."
-
+description: "Support group of peers working on Danish Registers."
 ---
+
+As several students are facing challenges in initiating data management tasks, and various statistical programs are being utilized, we have decided to establish a study group community. We will discuss the framework for this during an upcoming Register Space meeting. For now, we have set up a Google Docs document where we encourage all those working with data within "Register Space" to sign up. The document is private and requires my approval for access. I aim to approve requests within approximately 24 hours.
 
 You can request access to the Google Docs document through the following link:
 https://docs.google.com/document/d/1YUrt4DA3GtLq_dHN2SDsoS5deBOnqmVEeJzUOfa1-ZE/edit?usp=sharing
