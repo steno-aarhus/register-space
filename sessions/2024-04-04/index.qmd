@@ -1,0 +1,14 @@
+---
+title: "Modern, fast, and powerful approaches to working with data on Denmark Statistics"
+description: "A presentation on how to make use of modern tools to analyze massive data, like the Denmark Statistic's registers, very quickly."
+date: "2024-04-04"
+---
+
+Slides can be found in this
+[link](https://slides.lwjohnst.com/s/2024-04-04/#/title-slide), as well
+as embedded below. Use the arrow keys to navigate the slides.
+
+```{=html}
+<iframe src="slides.html" width="100%" height="425" title="Presentation slides">
+</iframe>
+```
