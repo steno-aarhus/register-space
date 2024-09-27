@@ -1,0 +1,10 @@
+---
+title: "DARTER kickstarter"
+description: "Introduction to the onboarding material on how to work with register data"
+date: "2024-09-26"
+---
+
+
+Files from session:
+
+- [Slides](slides.pdf)
