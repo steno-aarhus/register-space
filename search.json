@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "directory.html",
+    "href": "directory.html",
+    "title": "Website Directory",
+    "section": "",
+    "text": "These are other websites across Steno Aarhus:\n\nOfficial site: The official Region Midt website for more general public information and details.\nResearch Common Docs: Common documents and operating prodecures for researchers across Steno Aarhus.\nEpidemiology and Statistics: Events and activities related to epidemiology and statistics.\nRegister Research Space: Events and activities related to register-based research.\nInternationalization: Efforts to spread knowledge and connect with other countries, specifically Latin America.\nEpidemiology Group: Documentation for meetings within the epidemiology group.\nCoding Cafe: Schedule for in-person coding support and help."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "SDCA Register Space",
@@ -21,18 +28,11 @@
     "text": "Sessions"
   },
   {
-    "objectID": "directory.html",
-    "href": "directory.html",
-    "title": "Website Directory",
+    "objectID": "sessions/2024-10-24/index.html",
+    "href": "sessions/2024-10-24/index.html",
+    "title": "The SDCA project database",
     "section": "",
-    "text": "These are other websites across Steno Aarhus:\n\nOfficial site: The official Region Midt website for more general public information and details.\nResearch Common Docs: Common documents and operating prodecures for researchers across Steno Aarhus.\nEpidemiology and Statistics: Events and activities related to epidemiology and statistics.\nRegister Research Space: Events and activities related to register-based research.\nInternationalization: Efforts to spread knowledge and connect with other countries, specifically Latin America.\nEpidemiology Group: Documentation for meetings within the epidemiology group.\nCoding Cafe: Schedule for in-person coding support and help."
-  },
-  {
-    "objectID": "sessions/2024-02-02/index.html",
-    "href": "sessions/2024-02-02/index.html",
-    "title": "Register space intro",
-    "section": "",
-    "text": "Files from session:\n\nSlides\n\nMeeting times and topics: https://docs.google.com/document/d/1V_pz1gZqMPj6mQDpKEl6JpnKDF-TMSvKq_Kir3-g6nY/edit#heading=h.lk0qgp7oa1og"
+    "text": "Files from session:\n\nSlides"
   },
   {
     "objectID": "sessions/2024-09-26/index.html",
@@ -42,18 +42,18 @@
     "text": "Files from session:\n\nSlides"
   },
   {
+    "objectID": "sessions/2024-02-29/index.html",
+    "href": "sessions/2024-02-29/index.html",
+    "title": "Register based diabetes definition used at SDCA",
+    "section": "",
+    "text": "Files from session:\n\nSlides\n\nThe Article discussed were (Isaksen, Sandbæk, and Bjerg 2023) and the following dissertation: https://aastedet.github.io/dissertation/5-discussion-methods.html#design-of-diabetes-classifiers\n\n\n\n\nReferences\n\nIsaksen, A. A., A. Sandbæk, and L. Bjerg. 2023. “Validation of Register-Based Diabetes Classifiers in Danish Data.” https://doi.org/10.2147/CLEP.S407019."
+  },
+  {
     "objectID": "sessions/2024-04-04/index.html",
     "href": "sessions/2024-04-04/index.html",
     "title": "Modern, fast, and powerful approaches to working with data on Denmark Statistics",
     "section": "",
     "text": "Slides can be found in this link, as well as embedded below. Use the arrow keys to navigate the slides."
-  },
-  {
-    "objectID": "sessions/2024-10-24/index.html",
-    "href": "sessions/2024-10-24/index.html",
-    "title": "The SDCA project database",
-    "section": "",
-    "text": "Files from session:\n\nSlides"
   },
   {
     "objectID": "sessions/YYYY-MM-DD/index.html",
@@ -70,11 +70,11 @@
     "text": "Files from session:\n\nSlides"
   },
   {
-    "objectID": "sessions/2024-02-29/index.html",
-    "href": "sessions/2024-02-29/index.html",
-    "title": "Register based diabetes definition used at SDCA",
+    "objectID": "sessions/2024-02-02/index.html",
+    "href": "sessions/2024-02-02/index.html",
+    "title": "Register space intro",
     "section": "",
-    "text": "Files from session:\n\nSlides\n\nThe Article discussed were (Isaksen, Sandbæk, and Bjerg 2023) and the following dissertation: https://aastedet.github.io/dissertation/5-discussion-methods.html#design-of-diabetes-classifiers\n\n\n\n\nReferences\n\nIsaksen, A. A., A. Sandbæk, and L. Bjerg. 2023. “Validation of Register-Based Diabetes Classifiers in Danish Data.” https://doi.org/10.2147/CLEP.S407019."
+    "text": "Files from session:\n\nSlides\n\nMeeting times and topics: https://docs.google.com/document/d/1V_pz1gZqMPj6mQDpKEl6JpnKDF-TMSvKq_Kir3-g6nY/edit#heading=h.lk0qgp7oa1og"
   },
   {
     "objectID": "LICENSE.html",
