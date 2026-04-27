@@ -1,43 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://steno-aarhus.github.io/register-space/index.html</loc>
-    <lastmod>2025-09-15T12:25:46.168Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/register-space/sessions/2024-04-04/index.html</loc>
-    <lastmod>2025-09-15T12:25:46.176Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/register-space/sessions/2024-02-02/index.html</loc>
-    <lastmod>2025-09-15T12:25:46.168Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/register-space/sessions/2024-02-29/index.html</loc>
-    <lastmod>2025-09-15T12:25:46.170Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/register-space/sessions/2024-05-02/index.html</loc>
-    <lastmod>2025-09-15T12:25:46.198Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/register-space/directory.html</loc>
-    <lastmod>2025-09-15T12:25:46.168Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/register-space/sessions/2024-10-24/index.html</loc>
-    <lastmod>2025-09-15T12:25:46.202Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/register-space/sessions/2024-09-26/index.html</loc>
-    <lastmod>2025-09-15T12:25:46.199Z</lastmod>
+    <loc>https://steno-aarhus.github.io/register-space/LICENSE.html</loc>
+    <lastmod>2026-04-27T09:02:53.779Z</lastmod>
   </url>
   <url>
     <loc>https://steno-aarhus.github.io/register-space/sessions/YYYY-MM-DD/index.html</loc>
-    <lastmod>2025-09-15T12:25:46.203Z</lastmod>
+    <lastmod>2026-04-27T09:02:53.817Z</lastmod>
   </url>
   <url>
-    <loc>https://steno-aarhus.github.io/register-space/LICENSE.html</loc>
-    <lastmod>2025-09-15T12:25:46.163Z</lastmod>
+    <loc>https://steno-aarhus.github.io/register-space/sessions/2024-05-02/index.html</loc>
+    <lastmod>2026-04-27T09:02:53.813Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/register-space/sessions/2024-02-02/index.html</loc>
+    <lastmod>2026-04-27T09:02:53.785Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/register-space/sessions/2024-02-29/index.html</loc>
+    <lastmod>2026-04-27T09:02:53.786Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/register-space/sessions/2024-09-26/index.html</loc>
+    <lastmod>2026-04-27T09:02:53.814Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/register-space/sessions/2024-04-04/index.html</loc>
+    <lastmod>2026-04-27T09:02:53.792Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/register-space/sessions/2024-10-24/index.html</loc>
+    <lastmod>2026-04-27T09:02:53.816Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/register-space/index.html</loc>
+    <lastmod>2026-04-27T09:02:53.784Z</lastmod>
   </url>
 </urlset>
